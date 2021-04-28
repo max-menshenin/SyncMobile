@@ -1,5 +1,11 @@
 package com.example.syncmobile
 
+/*
+github.com/max-menshenin
+vk: vk.com/postmind
+telegram: t.me/postmind
+*/
+
 import android.Manifest
 import android.content.pm.PackageManager
 import android.database.Cursor
